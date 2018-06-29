@@ -1,0 +1,2 @@
+export const APP_INITAIALIZED = 'app.INITIALIZED'
+export const API_ROOT_CHANGED = 'app.ROOT_CHANGED'

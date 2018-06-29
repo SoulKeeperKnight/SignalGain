@@ -1,0 +1,1 @@
+export const apiEndPoint = 'http://192.168.1.127:3000/apiv1/'
